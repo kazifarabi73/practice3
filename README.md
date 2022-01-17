@@ -1,2 +1,2 @@
 # practice3
-cls practice
+https://kazifarabi73.github.io/practice3/
