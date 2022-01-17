@@ -1,0 +1,21 @@
+h3{
+	font-size: 50px;
+}
+h4{
+	color: blue;
+}
+.yellow{
+	background-color: yellow;
+
+}
+.red{
+	border:5px solid red
+}
+#big_font{
+	font-size: 50px ;
+}
+.box{
+	width: 200px;
+	height: 100px;
+	background-color: red;
+}
